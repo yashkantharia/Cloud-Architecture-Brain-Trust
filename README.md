@@ -70,6 +70,8 @@ streamlit run app.py
 2. **MCP Abstraction**: `phase2` turns `ChromaDB` into a universal `search_aws_guidelines` tool available over `stdio` without hardcoding database drivers.
 3. **A2A Interaction**: When you trigger a command on the frontend, the `Lead` creates an initial draft and does a POST request to Security. Security mandates changes, returns them, and the `Lead` queries Cost before compiling the final markdown solution.
 
+![UML - Architecture of Cloud Architecture Brain Trust](/UML.png)
+
 
 
 ## 🤝 Contributing
