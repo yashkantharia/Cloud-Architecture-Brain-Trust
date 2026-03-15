@@ -71,7 +71,5 @@ streamlit run app.py
 
 ![UML - Architecture of Cloud Architecture Brain Trust](https://github.com/yashkantharia/Cloud-Architecture-Brain-Trust/blob/main/UML.png)
 
-
-
 ## 🤝 Contributing
 Want to add a Data Engineer agent or SRE Agent? You just need to build a new `uvicorn` router in `phase3` and append the POST request logic to the `app.py` workflow!
